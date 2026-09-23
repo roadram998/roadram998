@@ -53,6 +53,10 @@ NumbersStore provides **real, carrier-grade, non-VoIP phone numbers** for SMS ve
 - **Website:** [numbersstore.com](https://www.numbersstore.com)
 - **Blog:** [numbersstore.hashnode.dev](https://numbersstore.hashnode.dev)
 - **X (Twitter):** [@numbersstore](https://x.com/numbersstore)
+- **Instagram:** [@numbersstore309](https://www.instagram.com/numbersstore309)
+- **YouTube:** [@NumbersStore1](https://www.youtube.com/@NumbersStore1)
+- **Facebook:** [NumbersStore](https://www.facebook.com/NumbersStore/)
+- **Telegram:** [@NumbersStore_channel](https://t.me/NumbersStore_channel)
 
 ---
 
